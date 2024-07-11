@@ -41,6 +41,7 @@ export default function RootLayout({
         <body className={`${inter.className} bg-dark-2`}>
           <Toaster />
           {children}
+          <script src="//code.tidio.co/ljiqnkaazsiqcybqzqjfadoa6objmdtw.js" async></script>
         </body>
       </ClerkProvider>
     </html>
