@@ -18,7 +18,7 @@ ConvoSpace is a cutting-edge video conferencing application designed to revoluti
 
 ### 🧩 Tech Stack
 
-- **Frontend:** React, Redux, React Router, Socket.io
+- **Frontend:** NextJS
 - **Backend:** NextJS
 
 - **Real-Time Chat:** GetStream.io
